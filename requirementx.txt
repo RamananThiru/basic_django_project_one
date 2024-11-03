@@ -1,0 +1,4 @@
+psycopg
+django
+django-debug-toolbar
+djangorestframewor
